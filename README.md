@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Demarchi11/Demarchi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 João Victor Demarchi
 
-Here are some ideas to get you started:
+## 🧑 Sobre mim
+Olá! Meu nome é **João Victor Demarchi**, tenho 16 anos e sou estudante da rede FIRJAN. Estou cursando **Desenvolvimento de Sistemas** na instituição SENAI e ensino médio na rede SESI Campus Petrópolis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Meus interesses
+- Amo **Medicina**  
+- Tecnologias que quero aprender e dominar:  
+  - 🐍 Python  
+  - 🌐 HTML  
+      
+## 🎯 Objetivos
+- Aprender profundamente Python para desenvolvimento dos meus conhecimentos.    
+- Criar um site pessoal para divulgar meus projetos e habilidades.
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-demarchi-03a410367/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvdemarchileite)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvdemarchi)
+
+
+
+
+
+   
