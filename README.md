@@ -7,12 +7,12 @@ Olá! Meu nome é **João Victor Demarchi**, tenho 16 anos e sou estudante da re
 ## ❤️ Meus interesses
 - Amo **Medicina**  
 - Tecnologias que quero aprender e dominar:  
-  - 🐍 Python  
-  - 🌐 HTML  
+  -  Python  
+  -  HTML  
       
 ## 🎯 Objetivos
 - Aprender profundamente Python para desenvolvimento dos meus conhecimentos.    
-- Criar um site pessoal para divulgar meus projetos e habilidades.
+- Desejo evoluir meus conhecimentos sobre a tecnologia e avançar junto a inovação.
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-demarchi-03a410367/)
